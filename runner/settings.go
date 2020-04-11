@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/pilu/config"
+	"github.com/silverark/config"
 )
 
 const (

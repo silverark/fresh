@@ -1,7 +1,7 @@
 package main
 
 import (
-  "github.com/pilu/traffic"
+  "github.com/silverark/traffic"
 )
 
 func rootHandler(w traffic.ResponseWriter, r *traffic.Request) {
